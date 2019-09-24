@@ -5,7 +5,7 @@ languages:
 products:
 - azure
 description: "Azure Container Instance sample for managing container instances."
-urlFragment: aci-java-scale-up-containers-using-acs
+urlFragment: getting-started-containerinstance
 ---
 
 # Getting Started with Containerinstance - Manage Container Instance Zero To One And One To Many Using Container Service Orchestrator - in Java #
