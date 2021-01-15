@@ -5,8 +5,8 @@ languages:
 products:
 - azure
 extensions:
-  services: Containerinstance
-  platforms: java
+- services: Containerinstance
+- platforms: java
 ---
 
 # Getting Started with Containerinstance - Manage Container Instance Zero To One And One To Many Using Container Service Orchestrator - in Java #
